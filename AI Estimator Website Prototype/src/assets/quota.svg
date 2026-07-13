@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1251.88 631.58">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Verdana-Bold, Verdana;
+        font-size: 274.84px;
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #0dc006;
+      }
+
+      .cls-3 {
+        fill: #06276e;
+      }
+    </style>
+  </defs>
+  <g id="Layer_5" data-name="Layer 5">
+    <path class="cls-3" d="M313.82,352.94h-91.63c-5.34,0-9.68-4.33-9.68-9.68v-104.99c0-5.34,4.33-9.68,9.68-9.68h123.75c5.34,0,9.68,4.33,9.68,9.68v114.67h50.52v-130.69c0-23.48-19.03-42.51-42.51-42.51h-159.13c-23.48,0-42.51,19.03-42.51,42.51v137.03c0,23.48,19.03,42.51,42.51,42.51h109.31v-48.85Z"/>
+    <polygon class="cls-2" points="250.17 352.94 386 488.98 448.65 427.05 414.93 393.1 386 420.96 318.27 353.24 250.17 352.94"/>
+  </g>
+  <g id="Layer_6" data-name="Layer 6">
+    <text class="cls-1" transform="translate(426.06 401.79)"><tspan x="0" y="0">uota</tspan></text>
+  </g>
+</svg>
