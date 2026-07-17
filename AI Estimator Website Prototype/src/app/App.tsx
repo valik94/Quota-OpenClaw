@@ -90,6 +90,7 @@ export default function App() {
           />
         )}
       </main>
+            <a href="https://t.me/quotabot_bot" target="_blank" style={{position:'fixed',bottom:'24px',right:'24px',background:'#229ED9',color:'#fff',padding:'12px 20px',borderRadius:'24px',fontFamily:'sans-serif',fontWeight:600,fontSize:'15px',textDecoration:'none',boxShadow:'0 4px 12px rgba(0,0,0,0.2)',zIndex:9999}}>Open in Telegram</a>
     </div>
   );
 }
